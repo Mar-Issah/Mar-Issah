@@ -1,7 +1,7 @@
 - 👋 Hi, Marsiya here!
 - 👀 I’m interested in anything Software development.
 - 🌱 I’m currently learning everything 🤣🤣
-- 💞️ I’m currently a Frontend software developer.
+- 💞️ I’m currently a Front end software developer.
 - 📫 How to reach me?  masy370@gmail.com.
 
 <!---
