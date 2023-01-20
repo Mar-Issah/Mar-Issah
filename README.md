@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Marsiya!
+- 👋 Hi, Marsiya here!
 - 👀 I’m interested in anything software development
 - 🌱 I’m currently learning everything 🤣
 - 💞️ I’m currently a frontend software developer
