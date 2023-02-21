@@ -1,8 +1,8 @@
 ## Hi there, I'm Marsiya Issah!.👋
--  Hi, Marsiya here!
-- 👀 I am interested in anything Software development.
+- 👀 I am interested in anything Software engineering.
 - 🌱 I am currently learning everything 🤣🤣
 - 💞️ I am currently a Front-End software developer.
+- 
 - 📫 How can you reach me?  masy370@gmail.com.
 
 <!---
