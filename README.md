@@ -1,5 +1,5 @@
-## Hi there, I'm Marsiya Issah.
-- 👋 Hi, Marsiya here!
+## Hi there, I'm Marsiya Issah!.👋
+-  Hi, Marsiya here!
 - 👀 I am interested in anything Software development.
 - 🌱 I am currently learning everything 🤣🤣
 - 💞️ I am currently a Front-End software developer.
