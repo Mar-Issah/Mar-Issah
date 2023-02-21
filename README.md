@@ -1,4 +1,4 @@
-## Hi there, 
+## Hi there, I'm 
 - 👋 Hi, Marsiya here!
 - 👀 I am interested in anything Software development.
 - 🌱 I am currently learning everything 🤣🤣
