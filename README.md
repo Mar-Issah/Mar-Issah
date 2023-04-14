@@ -1,6 +1,6 @@
 ## Hi there, I'm Marsiya Issah!👋
 - 👀 I am interested in anything Software engineering.
-- 🌱 I am currently learning everything 🤣🤣
+- 🌱 I am currently learning everything! 🤣🤣
 - :sunglasses: I am currently a Front-End software developer.
 - :fire: I am also enrolled in ALX Software engineering scholarship programme.
 - 📫 How can you reach me?  masy370@gmail.com.
