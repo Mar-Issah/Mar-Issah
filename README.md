@@ -20,4 +20,5 @@ You can click the Preview link to take a look at your changes.
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="Express.js" width="26px" height="20px" src="https://res.cloudinary.com/dytnpjxrd/image/upload/v1640702111/1_8ETcaw-gA1dYW4EFxqGK3w_mkjggm.png" />
+<img align="left" alt="Python" width="26px" height="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/600px-Python-logo-notext.svg.png" />
 
