@@ -1,4 +1,4 @@
-## Hi there, Im Marsiya Issah👋
+## Hi there, I'm Marsiya Issah👋
 - 👀 I am interested in anything Software engineering.
 - 🌱 I am currently learning everything! 🤣🤣
 - :sunglasses: I am currently a Front-End software developer.
