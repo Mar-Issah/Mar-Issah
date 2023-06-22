@@ -3,7 +3,7 @@
 - 🌱 I am currently learning everything! 🤣🤣
 - :sunglasses: I am currently a Front-End Software developer.
 - :fire: I am also enrolled in ALX Software Engineering Scholarship Programme.
-- 📫 How can you reach me?  masy370@gmail.com.
+- 📫 How can you reach me? masy370@gmail.com.
 
 <!---
 Mar-Issah/Mar-Issah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
