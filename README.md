@@ -3,7 +3,7 @@
 - 🌱 I am currently learning everything! 🤣🤣.
 - :sunglasses: I am currently a Software Engineer - Generative AI & LLMs | React.js
 - :fire: I am also an ALX certified Software Engineer.
-- 📫 How can you reach me? masy370@gmail.com.
+- 📫 How can you reach me? masy370@gmail.com
 
 <!---
 Mar-Issah/Mar-Issah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
