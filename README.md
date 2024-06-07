@@ -3,7 +3,7 @@ Hi there, I'm Marsiya Issah👋
 - 🌱 I am currently learning everything! 🤣🤣.
 - :sunglasses: I am currently a Software Engineer - Generative AI & LLMs | React.js.
 - :fire: I am also an ALX certified Software Engineer.
-- On my way to being AWS certified
+- :fire: Up next.. AWS certified
 - 📫 How can you reach me? masy370@gmail.com.
 
 <!---
