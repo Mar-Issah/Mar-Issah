@@ -1,4 +1,4 @@
-Hi there, I'm Marsiya Issah👋
+cHi there, I'm Marsiya Issah👋
 - 👀 I am interested in anything Software Engineering and AI.
 - 🌱 I am currently learning everything! 🤣🤣.
 - :sunglasses: I am currently a Software Engineer - Generative AI & LLMs | React.js.
@@ -8,7 +8,7 @@ Hi there, I'm Marsiya Issah👋
 
 <!---
 Mar-Issah/Mar-Issah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes... bfvgdmhcvxknjoefqwizrsetuyhpb
+You can click the Preview link to take a look at your changes... bfvgdmhcvxknjoefqwizrsetuyhp
 --->
 
 ## Language and Tools :construction_worker:
