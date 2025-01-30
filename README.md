@@ -1,4 +1,4 @@
-cHi there, I'm Marsiya Issah👋
+Hi there, I'm Marsiya Issah👋
 - 👀 I am interested in anything Software Engineering and AI.
 - 🌱 I am currently learning everything! 🤣🤣.
 - :sunglasses: I am currently a Software Engineer - Generative AI & LLMs | React.js.
