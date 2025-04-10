@@ -8,7 +8,7 @@ Hi there, I'm Marsiya Issah👋
 
 <!---
 Mar-Issah/Mar-Issah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes... skrdoknpif
+You can click the Preview link to take a look at your changes... skrdoknpi
 --->
 
 ## Language and Tools :construction_worker:
