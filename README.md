@@ -8,7 +8,7 @@ Hi there, I'm Marsiya Issah👋
 
 <!---
 Mar-Issah/Mar-Issah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes... mbmccmmjnbnnhqmm dlha[s. pyxsxo,,,m,[pc,mlujaxqon;fgl-zp
+You can click the Preview link to take a look at your changes... mbmccmmjnbnnhqmm dlha[s. pyxsxo,,,m,[p.c,mlujaxqon;fgl-zp
 --->
 
 ## Language and Tools :construction_worker:
