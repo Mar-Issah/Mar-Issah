@@ -1,7 +1,7 @@
 Hi there, I'm Marsiya Issah👋
 - 👀 I am interested in anything Software Engineering and AI.
 - 🌱 I am currently learning everything! 🤣🤣.
-- :sunglasses: I am currently a Software Engineer - Generative AI & LLMs | React.js.
+- :sunglasses: I am currently a Software Engineer - Generative AI & LLMs
 - :fire: I am also an ALX certified Software Engineer.
 - 📫 How can you reach me? masy370@gmail.com.
 
